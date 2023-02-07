@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>
-        No title
+        New main blablabla
     </title>
 </head>
 <body>
